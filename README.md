@@ -1,3 +1,5 @@
+I followed this tutorial for the Lab - Client-side Frameworks assignment in CYBR8470 using React. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
